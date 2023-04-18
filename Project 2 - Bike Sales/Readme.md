@@ -1,5 +1,5 @@
 # Bike Sales Report
-
+![Alt text](Project 2 - Bike Sales/bike-sale.png "")
 
 ## Table of content:
 
