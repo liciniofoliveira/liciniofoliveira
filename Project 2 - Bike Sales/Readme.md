@@ -1,5 +1,6 @@
 # Bike Sales Report
-<img src="[Project 2 - Bike Sales/bike-sale.png](https://github.com/liciniofoliveira/liciniofoliveira/blob/main/Project%202%20-%20Bike%20Sales/bike-sale.png)" alt="Bike Sales" style="height: 100px; width:100px;"/>
+
+![image](https://github.com/liciniofoliveira/liciniofoliveira/blob/main/Project%202%20-%20Bike%20Sales/bike-sale.png)
 
 ## Table of content:
 
