@@ -24,7 +24,7 @@ This project is licensed under the  4.0 International (CC BY 4.0)
 ## Author
 
   - **Licínio Oliveira** - 
-    [PurpleBooth](https://github.com/liciniofoliveira)
+    [Github](https://github.com/liciniofoliveira)
 
 
 
