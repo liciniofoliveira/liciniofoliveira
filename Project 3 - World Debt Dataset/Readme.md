@@ -1,5 +1,7 @@
 # World Debt Analysis
 
+![image](https://github.com/liciniofoliveira/liciniofoliveira/blob/main/Project%202%20-%20Bike%20Sales/bike-sale.png)
+
 In this project, i use Python to analyze world debt data from various countries to gain insights and visualize trends. I use popular data analysis libraries such as Pandas and Numpy to process, clean and visualize the data.
 In this project i included my Jupyter Notebook with step-by-step analysis.
 
