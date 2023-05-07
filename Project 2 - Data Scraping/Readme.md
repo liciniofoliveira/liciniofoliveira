@@ -22,7 +22,7 @@ I've setted a timer to check the price of the product(s) that was done doing thi
 while(True):
     check_price()
     time.sleep(86400)
-    ```
+ ```
  ### Variable for checking price from webpage
     ```python
 
