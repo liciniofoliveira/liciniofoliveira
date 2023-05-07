@@ -44,4 +44,5 @@ while(True):
         writer.writerow(data)
         ```
         
-The totality of the code can be seen in file <sub>Data Scaping Project - Amazon.md</sub> within this folder.
+The totality of the code can be seen in file:
+#### Data Scaping Project - Amazon.md
