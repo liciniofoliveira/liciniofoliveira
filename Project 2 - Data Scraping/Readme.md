@@ -23,7 +23,7 @@ while(True):
     check_price()
     time.sleep(86400)
  ```
- ### Variable for checking price from webpage
+ ### VARIABLE FOR CHECKING PRICE IN THE WEBPAGE
     ```python
 
     URL = 'https://www.amazon.es/s?k=supplements&i=hpc&crid=GH32N5SR8EER&sprefix=supplements%2Chpc%2C190&ref=nb_sb_noss_2'
